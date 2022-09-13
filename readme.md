@@ -17,8 +17,6 @@ AzureSeeker 실습 자료실에 오신 것을 환영합니다.
 
 [**Microsoft 공인 과정 : AZ-104 (Azure 관리자)**](https://github.com/AzureSeeker/AZ-104)
 
-[**Microsoft 공인 과정 : AZ-303 (Azure 아키텍트 기술)**](https://github.com/AzureSeeker/AZ-303)
-
 [**Microsoft 공인 과정 : AZ-305 (Azure 인프라 솔루션 설계)**](https://github.com/AzureSeeker/AZ-305)
 
 [**Microsoft 공인 과정 : AZ-500 (Azure 보안 기술)**](https://github.com/AzureSeeker/AZ-500)
