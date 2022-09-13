@@ -13,17 +13,17 @@ AzureSeeker 실습 자료실에 오신 것을 환영합니다.
 
 ## 해당되는 강의명을 클릭합니다.
 
-[**Microsoft 공인 과정 : AZ-900 (Azure 기초)**](http://gitlab.azureseeker.com/Azure/az-900)
+[**Microsoft 공인 과정 : AZ-900 (Azure 기초)**](https://github.com/AzureSeeker/AZ-900)
 
-[**Microsoft 공인 과정 : AZ-104 (Azure 관리자)**](http://gitlab.azureseeker.com/Azure/az-104)
+[**Microsoft 공인 과정 : AZ-104 (Azure 관리자)**](https://github.com/AzureSeeker/AZ-104)
 
-[**Microsoft 공인 과정 : AZ-303 (Azure 아키텍트 기술)**](http://gitlab.azureseeker.com/Azure/az-303)
+[**Microsoft 공인 과정 : AZ-303 (Azure 아키텍트 기술)**](https://github.com/AzureSeeker/AZ-303)
 
-[**Microsoft 공인 과정 : AZ-304 (Azure 아치텍트 디자인)**](http://gitlab.azureseeker.com/Azure/az-304)
+[**Microsoft 공인 과정 : AZ-305 (Azure 인프라 솔루션 설계)**](https://github.com/AzureSeeker/AZ-305)
 
-[**Microsoft 공인 과정 : AZ-500 (Azure 보안 기술)**](http://gitlab.azureseeker.com/Azure/az-500)
+[**Microsoft 공인 과정 : AZ-500 (Azure 보안 기술)**](https://github.com/AzureSeeker/AZ-500)
 
-[**Microsoft 공인 과정 : WS-050 (line of business application migration-MCW)**](http://gitlab.azureseeker.com/Azure/ws-050)
+
 
 <br>
 
