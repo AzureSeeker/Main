@@ -13,6 +13,11 @@ AzureSeeker 실습 자료실에 오신 것을 환영합니다.
 
 ## 해당되는 강의명을 클릭합니다.
 
+[**Microsoft Azure 보안 기능 : (2025-09-18~19)**](https://github.com/AzureSeeker/AZ-Security-2509)
+
+
+
+
 [**Microsoft 공인 과정 : AZ-900 (Azure 기초)**](https://github.com/AzureSeeker/AZ-900)
 
 [**Microsoft 공인 과정 : AZ-104 (Azure 관리자)**](https://github.com/AzureSeeker/AZ-104)
@@ -31,3 +36,4 @@ AzureSeeker 실습 자료실에 오신 것을 환영합니다.
 
 
 `Copyright ⓒ AzureSeeker All Rights Reserved.`
+
